@@ -6,7 +6,9 @@
 
 You can view the live website here: [ELEMENTAL EXPLORER](https://hemanth-1508.github.io/CHEMISTRY)
 
-USERNAME: admin.
+USERNAME: admin
+
+
 PASSWORD: 1234
 
 ## Features
