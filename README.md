@@ -28,4 +28,4 @@ PASSWORD: 1234
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/CHEMISTRY.git
+   git clone https://github.com/HEMANTH-1508/CHEMISTRY.git
